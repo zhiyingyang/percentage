@@ -1,11 +1,8 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.zhiyingyang'
 
 android {
     compileSdkVersion 25
     buildToolsVersion "26.0.0"
-
 
     defaultConfig {
         applicationId "com.example.percentage"
